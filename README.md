@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Deepak Mishra</h1>
 <h3 align="center">A passionate frontend developer from Delhi</h3>
 
+  <img align="right" alt="React Developer" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
+🔭 I’m currently working on [Grocery E-commerce Website](https://github.com/deepakbhardwajvst/my-grocery-ecommerce)
 
-- 🔭 I’m currently working on [Grocery E-commerce Website](https://github.com/deepakbhardwajvst/my-grocery-ecommerce)
+🌱 I’m currently learning **React Native,Next.js**
 
-- 🌱 I’m currently learning **React Native,Next.js**
+👨‍💻 All of my projects are available at [https://github.com/deepakbhardwajvst](https://github.com/deepakbhardwajvst)
 
-- 👨‍💻 All of my projects are available at [https://github.com/deepakbhardwajvst](https://github.com/deepakbhardwajvst)
+💬 Ask me about **React, Next.js**
 
-- 💬 Ask me about **React, Next.js**
-
-- 📫 How to reach me **Deepakbhardwajvst@gmail.com**
+📫 How to reach me **Deepakbhardwajvst@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
